@@ -19,8 +19,8 @@ body {
   gap: 20px;
 }
 .card {
-  width: 150px;
-  height: 150px;
+  width: 9.375rem;
+  height: 9.375rem;
   position: relative;
   transform-style: preserve-3d;
   transition: transform 0.5s;
@@ -47,7 +47,7 @@ body {
 .card_back {
   color: #101c2c;
   background-color: #05c3ff;
-  font-size: 30px;
+  font-size: 1.8rem;
   /* display: none; */
 }
 
@@ -57,7 +57,7 @@ body {
   height: 100%;
   background-color: rgba(0, 0, 0, 0.9);
   color: white;
-  font-size: 50px;
+  font-size: 3, 125rem;
   display: none;
   justify-content: center;
   align-items: center;
