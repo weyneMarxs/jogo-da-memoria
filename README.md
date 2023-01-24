@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O jogo da memória é um clássico jogo formado por peças que apresentam uma figura em um dos lados. Cada figura se repete em duas peças diferentes.
 
-- [Acesse o projeto finalizado, online](https://github.com/weyneMarxs/NLW---Setup---Habit)
+- [Acesse o projeto finalizado, online](https://github.com/weyneMarxs/jogo-da-memoria)
 
 ## :memo: Licença
 
